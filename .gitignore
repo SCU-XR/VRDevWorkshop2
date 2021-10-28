@@ -10,18 +10,18 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
-/VRDevWorkshop1/[Ll]ibrary/
-/VRDevWorkshop1/[Tt]emp/
-/VRDevWorkshop1/[Oo]bj/
-/VRDevWorkshop1/[Bb]uild/
-/VRDevWorkshop1/[Bb]uilds/
-/VRDevWorkshop1/[Ll]ogs/
-/VRDevWorkshop1/[Mm]emoryCaptures/
+/VRDevWorkshop2/[Ll]ibrary/
+/VRDevWorkshop2/[Tt]emp/
+/VRDevWorkshop2/[Oo]bj/
+/VRDevWorkshop2/[Bb]uild/
+/VRDevWorkshop2/[Bb]uilds/s
+/VRDevWorkshop2/[Ll]ogs/
+/VRDevWorkshop2/[Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
-!/VRDevWorkshop1/[Aa]ssets/**/*.meta
-!/VRDevWorkshop1/[Aa]ssets/**/*.*.meta
+!/VRDevWorkshop2/[Aa]ssets/**/*.meta
+!/VRDevWorkshop2/[Aa]ssets/**/*.*.meta
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
